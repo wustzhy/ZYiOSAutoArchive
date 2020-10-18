@@ -4,10 +4,14 @@
 <dict>
 	<key>root</key>
 	<dict>
-		<key>provisioningProfile</key>
+		<key>teamID</key>
+		<string>HFNWKQ65UU</string>
+		<key>method</key>
+		<string>ad-hoc</string>
+		<key>provisioningProfiles</key>
 		<dict/>
 		<key>com.iqbxq.springhalo.AutoArchiveTest</key>
-		<string></string>
+		<string>e558d2b8-d63e-4bd2-8cb2-ed9c84eead31</string>
 	</dict>
 </dict>
 </plist>
