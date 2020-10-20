@@ -22,7 +22,8 @@
     label.frame = CGRectMake(100, 100, 200, 100);
     [self.view addSubview:label];
     label.text = @"hello auto here";
-    build error test;
+    //build error test;
+    error2 not in tag;
 }
 
 
